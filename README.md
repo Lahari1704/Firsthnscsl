@@ -1,2 +1,2 @@
-# Firsthnscsl
+# First-honors-cls
 String
